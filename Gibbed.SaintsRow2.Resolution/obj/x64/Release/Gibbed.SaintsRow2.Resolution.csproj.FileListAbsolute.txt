@@ -1,0 +1,8 @@
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\bin\x64\Release\Gibbed.SaintsRow2.Resolution.exe.config
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\bin\x64\Release\Gibbed.SaintsRow2.Resolution.exe
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.csprojAssemblyReference.cache
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.Editor.resources
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.Properties.Resources.resources
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.csproj.GenerateResource.cache
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.csproj.CoreCompileInputs.cache
+D:\QINLILI\Documents\GitHub\Gibbed.SaintsRow2\Gibbed.SaintsRow2.Resolution\obj\x64\Release\Gibbed.SaintsRow2.Resolution.exe
